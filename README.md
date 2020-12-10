@@ -5,3 +5,6 @@ This program allows the user to load a textfile with ASCII characters and displa
 
 # Alchemist
 Allows the user to play the game alchemist. In the game the user can combine different elements to create new elements and can continue to do so until all elements have been created
+
+# Bus_stop_simulator
+Allows the user to simulate bus transit. The program reads in bus routes and links each bus stop with a linked list. Each node of the linked list is a bus stop. 
