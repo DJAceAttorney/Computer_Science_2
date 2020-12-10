@@ -11,3 +11,6 @@ Allows the user to simulate bus transit. The program reads in bus routes and lin
 
 # War_horses
 Program uses inheritance for different horse types. The program allows the user to collect, train, and battle war horses with different class types
+
+# E-reader
+Program uses a linked list to store information using a queue data structure. The program creates an e-reader that is populated with books. The user can display books, add books to their read list, display read list, and sort read list by book price
