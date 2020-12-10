@@ -8,3 +8,6 @@ Allows the user to play the game alchemist. In the game the user can combine dif
 
 # Bus_stop_simulator
 Allows the user to simulate bus transit. The program reads in bus routes and links each bus stop with a linked list. Each node of the linked list is a bus stop. 
+
+# War_horses
+Program uses inheritance for different horse types. The program allows the user to collect, train, and battle war horses with different class types
